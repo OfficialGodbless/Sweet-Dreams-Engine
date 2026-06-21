@@ -6,10 +6,8 @@
 
 Mediatek FPS Unlocker & Thermal Bypass Engine for KernelSU / Magisk. Put the competition to sleep 😴.
 
-**Version:** beta-v1.8.0 (Public Beta)
+**Version:** v1.9.2
 **Author:** Lil G Tech Labs
-
-> This is the first public release. Expect rough edges — feedback and issue reports welcome.
 
 ## Features
 - CPU / GPU / thermal profile tuning
@@ -25,7 +23,7 @@ Mediatek FPS Unlocker & Thermal Bypass Engine for KernelSU / Magisk. Put the com
 - **Auto-update support** — your manager app checks `update.json` against the installed version and notifies you when a new release drops
 
 ## Installation
-1. Download the latest release zip from [Releases](https://github.com/OfficialGodbless/Sweet-Dreams-Engine/releases).
+1. Download the latest release zip from [Releases](https://github.com/Just-LilG/Sweet-Dreams-Engine/releases).
 2. Flash via KernelSU Manager / MMRL → Modules → Install from storage.
 3. Reboot.
 

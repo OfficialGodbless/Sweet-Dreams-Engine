@@ -52,7 +52,7 @@
   <!-- tag pills -->
   <g font-family="Arial, sans-serif" font-size="12" font-weight="700">
     <rect x="64" y="232" width="96" height="28" rx="14" fill="rgba(124,111,255,0.12)" stroke="rgba(124,111,255,0.3)"/>
-    <text x="84" y="250" fill="#a78bfa">v1.6.0</text>
+    <text x="84" y="250" fill="#a78bfa">v1.9.2</text>
 
     <rect x="172" y="232" width="120" height="28" rx="14" fill="rgba(34,211,238,0.10)" stroke="rgba(34,211,238,0.28)"/>
     <text x="190" y="250" fill="#22d3ee">FPS UNLOCK</text>
