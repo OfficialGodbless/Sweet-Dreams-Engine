@@ -1,9 +1,7 @@
 {
-  "version": "beta-v1.8.2",
-  "versionCode": 182,
-  "zipUrl": "https://github.com/OfficialGodbless/Sweet-Dreams-Engine/releases/download/beta-v1.8.2/SweetDreams-beta-v1_8_2.zip",
+  "version": "v1.9.2",
+  "versionCode": 192,
+  "zipUrl": "https://github.com/OfficialGodbless/Sweet-Dreams-Engine/releases/download/v1.9.2/SweetDreams-v1_9_2.zip",
   "changelog": "https://raw.githubusercontent.com/OfficialGodbless/Sweet-Dreams-Engine/main/CHANGELOG.md"
 }
-
-
 
