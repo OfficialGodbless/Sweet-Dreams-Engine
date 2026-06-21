@@ -1,0 +1,15 @@
+{
+  "cpu_spoof": {
+    "blacklist": [],
+    "cpu_only_packages": []
+  },
+  "PACKAGES_CODM_LEGION": ["com.activision.callofduty.shooter"],
+  "PACKAGES_CODM_LEGION_DEVICE": {
+    "BRAND": "Lenovo",
+    "DEVICE": "Legion Y700 (2023)",
+    "MANUFACTURER": "Lenovo",
+    "MODEL": "TB-9707F",
+    "FINGERPRINT": "Lenovo/TB-9707F/Lenovo TB-9707F:13/TQ3A.230805.001/20230901:user/release-keys",
+    "PRODUCT": "TB-9707F"
+  }
+}

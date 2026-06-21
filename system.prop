@@ -1,0 +1,12 @@
+debug.sf.hw=1
+debug.egl.hw=1
+debug.hwui.force_hw_accel=true
+ro.config.enable.hw_accel=true
+persist.sys.composition.type=gpu
+debug.hwui.render_thread=true
+ro.hwui.render_thread=true
+debug.performance.tuning=1
+video.accelerate.hw=1
+persist.sys.ui.hw=1
+persist.sys.force_gpu_rendering=1
+debug.input.low_latency=1

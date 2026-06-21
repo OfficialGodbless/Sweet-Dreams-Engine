@@ -1,0 +1,14 @@
+touch.deviceType = touchScreen
+touch.orientationAware = 1
+touch.filter.level = 0
+touch.distance.scale = 0
+touch.gestureMode = spots
+touch.size.calibration = none
+touch.pressure.calibration = none
+touch.coverage.calibration = none
+touch.distance.calibration = none
+touch.size.isSummed = 0
+touch.pressure.linear.scale = 1.0
+touch.pressure.linear.bias = 0.0
+touch.velocity.tracker.strategy = lsq2
+touch.wake = 1

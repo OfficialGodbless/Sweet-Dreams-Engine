@@ -1,0 +1,11 @@
+com.activision.callofduty.shooter
+com.tencent.ig
+com.pubg.imobile
+com.garena.game.freefire
+com.vng.pubgmobile
+com.proximabeta.mf.u
+com.mobile.legends
+com.mobilelegends.ml
+com.levelinfinite.sgameGlobal
+com.tencent.tmgp.sgame
+com.rekoo.pubgm
